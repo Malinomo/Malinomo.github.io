@@ -1,6 +1,0 @@
-h1{background:cyan;}
-@media (maxwidth:800px){
-    #qrCodeImg{display:none;}
-    h1{background:lightgreen;}
-    h1::after{content:"(mobile)";}
-}
